@@ -1,4 +1,3 @@
-// banners/multilang-banner-esim.js
 // v1.1.0 — Auto-detecta distintos formatos de slider usados en WHL/Nexus
 
 (function () {
@@ -18,12 +17,12 @@
         mobile:  'https://gr-hub-projects.github.io/uploadImages/CyberMonday/CyberMonday-WebMobile-ESP.png'
       },
       en: {
-        desktop: 'https://gr-hub-projects.github.io/uploadImages/CyberMonday/CyberMonday-HOME-ENG.png',
-        mobile:  'https://gr-hub-projects.github.io/uploadImages/CyberMonday/CyberMonday-WebMobile-ENG.png'
+        desktop: 'https://gr-hub-projects.github.io/uploadImages/Travel-Tuesday/traveldays-home-eng.webp',
+        mobile:  'https://gr-hub-projects.github.io/uploadImages/Travel-Tuesday/web-mobile-eng.webp'
       },
       fr: {
-        desktop: 'https://gr-hub-projects.github.io/uploadImages/CyberMonday/CyberMonday-HOME-FR.png',
-        mobile:  'https://gr-hub-projects.github.io/uploadImages/CyberMonday/CyberMonday-WebMobile-FR.png'
+        desktop: 'https://gr-hub-projects.github.io/uploadImages/Travel-Tuesday/traveldays-home-fra.webp',
+        mobile:  'https://gr-hub-projects.github.io/uploadImages/Travel-Tuesday/web-mobile-fra.webp'
       }
     };
 
